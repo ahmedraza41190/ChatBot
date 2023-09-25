@@ -55,6 +55,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
             "hi": "Hi! How can I assist you?",
 
+            "who are you": "I'm a chatbot, so how can I assist you?",
+
             "what do i ask you": "You can ask me a wide range of questions and seek assistance with various topics. Here are some examples of what you can ask: What is chatbot?, What is the future of chatbots?, How do chatbots work?, Where are chatbots commonly used?, What are the types of chatbots?, Can chatbots understand natural language?, What are some benefits of using chatbots?, Are there any limitations to chatbots?, How can businesses implement chatbots?, What are some popular chatbot platforms?, Are chatbots replacing human customer support agents?, How can I create my own chatbot?....",
 
             "what do I ask you": "You can ask me a wide range of questions and seek assistance with various topics. Here are some examples of what you can ask: What is chatbot?, What is the future of chatbots?, How do chatbots work?, Where are chatbots commonly used?, What are the types of chatbots?, Can chatbots understand natural language?, What are some benefits of using chatbots?, Are there any limitations to chatbots?, How can businesses implement chatbots?, What are some popular chatbot platforms?, Are chatbots replacing human customer support agents?, How can I create my own chatbot?....",
@@ -149,6 +151,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
             "Hello": "Hello! How can I assist you?",
+
+            "Who are you": "I'm a chatbot, so how can I assist you?",
 
             "What do i ask you": "You can ask me a wide range of questions and seek assistance with various topics. Here are some examples of what you can ask: What is chatbot?, What is the future of chatbots?, How do chatbots work?, Where are chatbots commonly used?, What are the types of chatbots?, Can chatbots understand natural language?, What are some benefits of using chatbots?, Are there any limitations to chatbots?, How can businesses implement chatbots?, What are some popular chatbot platforms?, Are chatbots replacing human customer support agents?, How can I create my own chatbot?....",
 
@@ -248,6 +252,10 @@ document.addEventListener("DOMContentLoaded", function () {
             //?
 
             "how are you?": "I'm just a bot, but I'm here to help!",
+
+            "who are you?": "I'm a chatbot, so how can I assist you?",
+
+            "Who are you?": "I'm a chatbot, so how can I assist you?",
 
             "what do i ask you?": "You can ask me a wide range of questions and seek assistance with various topics. Here are some examples of what you can ask: What is chatbot?, What is the future of chatbots?, How do chatbots work?, Where are chatbots commonly used?, What are the types of chatbots?, Can chatbots understand natural language?, What are some benefits of using chatbots?, Are there any limitations to chatbots?, How can businesses implement chatbots?, What are some popular chatbot platforms?, Are chatbots replacing human customer support agents?, How can I create my own chatbot?....",
 
