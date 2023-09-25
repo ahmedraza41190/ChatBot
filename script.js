@@ -55,6 +55,34 @@ document.addEventListener("DOMContentLoaded", function () {
 
             "hi": "Hi! How can I assist you?",
 
+            "what do i ask you": "You can ask me a wide range of questions and seek assistance with various topics. Here are some examples of what you can ask: What is chatbot?, What is the future of chatbots?, How do chatbots work?, Where are chatbots commonly used?, What are the types of chatbots?, Can chatbots understand natural language?, What are some benefits of using chatbots?, Are there any limitations to chatbots?, How can businesses implement chatbots?, What are some popular chatbot platforms?, Are chatbots replacing human customer support agents?, How can I create my own chatbot?....",
+
+            "what do I ask you": "You can ask me a wide range of questions and seek assistance with various topics. Here are some examples of what you can ask: What is chatbot?, What is the future of chatbots?, How do chatbots work?, Where are chatbots commonly used?, What are the types of chatbots?, Can chatbots understand natural language?, What are some benefits of using chatbots?, Are there any limitations to chatbots?, How can businesses implement chatbots?, What are some popular chatbot platforms?, Are chatbots replacing human customer support agents?, How can I create my own chatbot?....",
+
+            "what is the future of chatbots": "The future of chatbots involves continued advancements in AI and NLP, making them more sophisticated and capable of handling a wider range of tasks and interactions.",
+
+            "what is chatbot": "A chatbot is a computer program designed to simulate human conversation and provide automated responses to users' queries.",
+
+            "how do chatbots work": "Chatbots work by using predefined rules, scripts, or artificial intelligence algorithms to interpret user inputs and generate relevant responses.",
+
+            "where are chatbots commonly used": "Chatbots are commonly used in customer service, e-commerce, healthcare, and various industries to provide information, automate tasks, and engage with users in real-time.",
+
+            "what are the types of chatbots": "There are two main types of chatbots: rule-based chatbots that follow predefined scripts, and AI-powered chatbots that use natural language processing and machine learning.",
+
+            "can chatbots understand natural language": "Yes, advanced chatbots equipped with natural language processing (NLP) can understand and respond to natural language inputs, making interactions more conversational.",
+
+            "what are some benefits of using chatbots": "Benefits of chatbots include 24/7 availability, faster response times, cost savings in customer support, and improved user experiences.",
+
+            "are there any limitations to chatbots": "Chatbots may struggle with complex or nuanced conversations, and their effectiveness depends on the quality of their training data and algorithms.",
+
+            "how can businesses implement chatbots": "Businesses can implement chatbots by developing custom solutions or using chatbot platforms and integrating them into their websites or messaging apps.",
+
+            "what are some popular chatbot platforms": "Popular chatbot platforms include Dialogflow, IBM Watson Assistant, Microsoft Bot Framework, and many others, each offering various features and capabilities.",
+
+            "are chatbots replacing human customer support agents": "Chatbots are often used to handle routine queries and tasks, but human agents are still essential for complex issues and providing a personalized touch in customer support.",
+
+            "how can I create my own chatbot": "You can create your own chatbot by using development frameworks, libraries, or no-code/low-code platforms that offer chatbot-building capabilities.",
+
             "what are you doing here": "I'm here to assist you with any questions",
 
             "what are you doing": "I'm here to assist you with any questions",
@@ -122,6 +150,34 @@ document.addEventListener("DOMContentLoaded", function () {
 
             "Hello": "Hello! How can I assist you?",
 
+            "What do i ask you": "You can ask me a wide range of questions and seek assistance with various topics. Here are some examples of what you can ask: What is chatbot?, What is the future of chatbots?, How do chatbots work?, Where are chatbots commonly used?, What are the types of chatbots?, Can chatbots understand natural language?, What are some benefits of using chatbots?, Are there any limitations to chatbots?, How can businesses implement chatbots?, What are some popular chatbot platforms?, Are chatbots replacing human customer support agents?, How can I create my own chatbot?....",
+
+            "What do I ask you": "You can ask me a wide range of questions and seek assistance with various topics. Here are some examples of what you can ask: What is chatbot?, What is the future of chatbots?, How do chatbots work?, Where are chatbots commonly used?, What are the types of chatbots?, Can chatbots understand natural language?, What are some benefits of using chatbots?, Are there any limitations to chatbots?, How can businesses implement chatbots?, What are some popular chatbot platforms?, Are chatbots replacing human customer support agents?, How can I create my own chatbot?....",
+
+            "What is the future of chatbots": "The future of chatbots involves continued advancements in AI and NLP, making them more sophisticated and capable of handling a wider range of tasks and interactions.",
+
+            "What is chatbot": "A chatbot is a computer program designed to simulate human conversation and provide automated responses to users' queries.",
+
+            "How do chatbots work": "Chatbots work by using predefined rules, scripts, or artificial intelligence algorithms to interpret user inputs and generate relevant responses.",
+
+            "Where are chatbots commonly used": "Chatbots are commonly used in customer service, e-commerce, healthcare, and various industries to provide information, automate tasks, and engage with users in real-time.",
+
+            "What are the types of chatbots": "There are two main types of chatbots: rule-based chatbots that follow predefined scripts, and AI-powered chatbots that use natural language processing and machine learning.",
+
+            "Can chatbots understand natural language": "Yes, advanced chatbots equipped with natural language processing (NLP) can understand and respond to natural language inputs, making interactions more conversational.",
+
+            "What are some benefits of using chatbots": "Benefits of chatbots include 24/7 availability, faster response times, cost savings in customer support, and improved user experiences.",
+
+            "Are there any limitations to chatbots": "Chatbots may struggle with complex or nuanced conversations, and their effectiveness depends on the quality of their training data and algorithms.",
+
+            "How can businesses implement chatbots": "Businesses can implement chatbots by developing custom solutions or using chatbot platforms and integrating them into their websites or messaging apps.",
+
+            "What are some popular chatbot platforms": "Popular chatbot platforms include Dialogflow, IBM Watson Assistant, Microsoft Bot Framework, and many others, each offering various features and capabilities.",
+
+            "Are chatbots replacing human customer support agents": "Chatbots are often used to handle routine queries and tasks, but human agents are still essential for complex issues and providing a personalized touch in customer support.",
+
+            "How can I create my own chatbot": "You can create your own chatbot by using development frameworks, libraries, or no-code/low-code platforms that offer chatbot-building capabilities.",
+
             "Hey": "Hey! How can I assist you?",
 
             "Hi": "Hi! How can I assist you?",
@@ -185,12 +241,45 @@ document.addEventListener("DOMContentLoaded", function () {
             "How does photosynthesis work": "Photosynthesis is the process by which plants convert sunlight into energy. It involves the absorption of light by chlorophyll and the conversion of carbon dioxide and water into glucose and oxygen.",
 
 
+               
 
-
+            
 
             //?
 
-            "how are you": "I'm just a bot, but I'm here to help!",
+            "how are you?": "I'm just a bot, but I'm here to help!",
+
+            "what do i ask you?": "You can ask me a wide range of questions and seek assistance with various topics. Here are some examples of what you can ask: What is chatbot?, What is the future of chatbots?, How do chatbots work?, Where are chatbots commonly used?, What are the types of chatbots?, Can chatbots understand natural language?, What are some benefits of using chatbots?, Are there any limitations to chatbots?, How can businesses implement chatbots?, What are some popular chatbot platforms?, Are chatbots replacing human customer support agents?, How can I create my own chatbot?....",
+
+            "What do i ask you?": "You can ask me a wide range of questions and seek assistance with various topics. Here are some examples of what you can ask: What is chatbot?, What is the future of chatbots?, How do chatbots work?, Where are chatbots commonly used?, What are the types of chatbots?, Can chatbots understand natural language?, What are some benefits of using chatbots?, Are there any limitations to chatbots?, How can businesses implement chatbots?, What are some popular chatbot platforms?, Are chatbots replacing human customer support agents?, How can I create my own chatbot?....",
+
+            "what do I ask you?": "You can ask me a wide range of questions and seek assistance with various topics. Here are some examples of what you can ask: What is chatbot?, What is the future of chatbots?, How do chatbots work?, Where are chatbots commonly used?, What are the types of chatbots?, Can chatbots understand natural language?, What are some benefits of using chatbots?, Are there any limitations to chatbots?, How can businesses implement chatbots?, What are some popular chatbot platforms?, Are chatbots replacing human customer support agents?, How can I create my own chatbot?....",
+
+            "What do I ask you?": "You can ask me a wide range of questions and seek assistance with various topics. Here are some examples of what you can ask: What is chatbot?, What is the future of chatbots?, How do chatbots work?, Where are chatbots commonly used?, What are the types of chatbots?, Can chatbots understand natural language?, What are some benefits of using chatbots?, Are there any limitations to chatbots?, How can businesses implement chatbots?, What are some popular chatbot platforms?, Are chatbots replacing human customer support agents?, How can I create my own chatbot?....",
+
+            "What is the future of chatbots?": "The future of chatbots involves continued advancements in AI and NLP, making them more sophisticated and capable of handling a wider range of tasks and interactions.",
+
+            "What is chatbot?": "A chatbot is a computer program designed to simulate human conversation and provide automated responses to users' queries.",
+
+            "How do chatbots work?": "Chatbots work by using predefined rules, scripts, or artificial intelligence algorithms to interpret user inputs and generate relevant responses.",
+
+            "Where are chatbots commonly used?": "Chatbots are commonly used in customer service, e-commerce, healthcare, and various industries to provide information, automate tasks, and engage with users in real-time.",
+
+            "What are the types of chatbots?": "There are two main types of chatbots: rule-based chatbots that follow predefined scripts, and AI-powered chatbots that use natural language processing and machine learning.",
+
+            "Can chatbots understand natural language?": "Yes, advanced chatbots equipped with natural language processing (NLP) can understand and respond to natural language inputs, making interactions more conversational.",
+
+            "What are some benefits of using chatbots?": "Benefits of chatbots include 24/7 availability, faster response times, cost savings in customer support, and improved user experiences.",
+
+            "Are there any limitations to chatbots?": "Chatbots may struggle with complex or nuanced conversations, and their effectiveness depends on the quality of their training data and algorithms.",
+
+            "How can businesses implement chatbots?": "Businesses can implement chatbots by developing custom solutions or using chatbot platforms and integrating them into their websites or messaging apps.",
+
+            "What are some popular chatbot platforms?": "Popular chatbot platforms include Dialogflow, IBM Watson Assistant, Microsoft Bot Framework, and many others, each offering various features and capabilities.",
+
+            "Are chatbots replacing human customer support agents?": "Chatbots are often used to handle routine queries and tasks, but human agents are still essential for complex issues and providing a personalized touch in customer support.",
+
+            "How can I create my own chatbot?": "You can create your own chatbot by using development frameworks, libraries, or no-code/low-code platforms that offer chatbot-building capabilities.",
 
             "What are you doing here?": "I'm here to assist you with any questions",
 
@@ -199,6 +288,30 @@ document.addEventListener("DOMContentLoaded", function () {
             "What are you doing?": "I'm here to assist you with any questions",
 
             "what are you doing?": "I'm here to assist you with any questions",
+
+            "what is the future of chatbots?": "The future of chatbots involves continued advancements in AI and NLP, making them more sophisticated and capable of handling a wider range of tasks and interactions.",
+
+            "what is chatbot?": "A chatbot is a computer program designed to simulate human conversation and provide automated responses to users' queries.",
+
+            "how do chatbots work?": "Chatbots work by using predefined rules, scripts, or artificial intelligence algorithms to interpret user inputs and generate relevant responses.",
+
+            "where are chatbots commonly used?": "Chatbots are commonly used in customer service, e-commerce, healthcare, and various industries to provide information, automate tasks, and engage with users in real-time.",
+
+            "what are the types of chatbots?": "There are two main types of chatbots: rule-based chatbots that follow predefined scripts, and AI-powered chatbots that use natural language processing and machine learning.",
+
+            "can chatbots understand natural language?": "Yes, advanced chatbots equipped with natural language processing (NLP) can understand and respond to natural language inputs, making interactions more conversational.",
+
+            "what are some benefits of using chatbots?": "Benefits of chatbots include 24/7 availability, faster response times, cost savings in customer support, and improved user experiences.",
+
+            "are there any limitations to chatbots?": "Chatbots may struggle with complex or nuanced conversations, and their effectiveness depends on the quality of their training data and algorithms.",
+
+            "ow can businesses implement chatbots?": "Businesses can implement chatbots by developing custom solutions or using chatbot platforms and integrating them into their websites or messaging apps.",
+
+            "what are some popular chatbot platforms?": "Popular chatbot platforms include Dialogflow, IBM Watson Assistant, Microsoft Bot Framework, and many others, each offering various features and capabilities.",
+
+            "are chatbots replacing human customer support agents?": "Chatbots are often used to handle routine queries and tasks, but human agents are still essential for complex issues and providing a personalized touch in customer support.",
+
+            "how can I create my own chatbot?": "You can create your own chatbot by using development frameworks, libraries, or no-code/low-code platforms that offer chatbot-building capabilities.",
 
             "Can you recommend a good restaurant nearby?": "I don't have access to your location, but you can use a restaurant review app or website to find highly-rated restaurants in your area.",
 
@@ -228,7 +341,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
             "what is your purpose?": "My purpose is to provide information and assist with answering your questions to the best of my knowledge.",
 
-            "what is your name": "I'm a chatbot, so I don't have a name, but you can call me ChatBot.",
+            "what is your name?": "I'm a chatbot, so I don't have a name, but you can call me ChatBot.",
+
+            "What is your name?": "I'm a chatbot, so I don't have a name, but you can call me ChatBot.",
 
             "how can you help me": "I can assist you with a wide range of tasks, from answering questions to providing recommendations and more. Just let me know what you need help with!",
 

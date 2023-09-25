@@ -36,10 +36,12 @@ body {
 .chat-header {
     background-color: #222242;
     color: #fff;
-    padding: 10px;
     text-align: center;
     font-weight: bold;
+    display: flex;
+    justify-content: center;
 }
+
 
 /* Styles for the chat box (message container) */
 .chat-box {
@@ -118,7 +120,6 @@ button {
         margin: 2rem;
     }
 }
-
 
 
 
